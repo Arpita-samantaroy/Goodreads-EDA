@@ -1,2 +1,2 @@
 # Goodreads-EDA
-Exploratory Data Analysis and Visualization on the Goodreads dataset.
+This project contains the Exploratory Data Analysis and Visualization of the Goodreads dataset, along with a content-based Recommendation System.
